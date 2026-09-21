@@ -4,6 +4,16 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## 0.11.1 — atualização de 21 de setembro de 2026
+
+- Novo ramo na saída do restaurante: Feka pode respeitar a recusa de Yasmin,
+  bloquear a passagem ou insistir em contato físico após ela dizer não.
+- A insistência tem consequências próprias, incluindo intervenção do
+  funcionário, reação de Joãozão e relatos separados na delegacia.
+- O ramo acrescenta nove nós e dois finais, elevando a história a 78 nós,
+  52 menus, 154 opções e 14 finais.
+- `game.zip` e o catálogo PWA foram recompilados com o novo roteiro e estado.
+
 ## 0.11.1 — 21 de setembro de 2026
 
 ### Mesa conjunta
