@@ -4,6 +4,57 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## 0.11.1 — 21 de setembro de 2026
+
+### Mesa conjunta
+
+- Dezoito imagens de `arte-v14` entram no pacote web e no catálogo de download
+  progressivo. Elas cobrem a união das mesas, a conversa com os quatro, o
+  serviço e a refeição, o intervalo, a volta à mesa, o pudim, o empréstimo, a
+  saída de Vanessa e as variantes da conta.
+- A encenação usa uma mesa menor e lugares consistentes: Feka e Vanessa ficam
+  frente a frente; Yasmin e Joãozão conservam seus lugares. As ações de sair,
+  voltar, levantar para a foto e retirar os pratos são mostradas em sequência.
+- A conversa na mesa conjunta distingue quem permanece quando chega a conta.
+  As variantes de quatro, três, dois ou apenas Feka não reutilizam uma imagem
+  incompatível com a presença dos personagens.
+
+### Banco, tempo e mensagens
+
+- O saldo inicial de Feka é R$ 120. O jantar custa R$ 180 para os dois;
+  dividir custa R$ 90 a cada um. O empréstimo de Joãozão e a ajuda de Vanessa
+  são de R$ 60, com prazos próprios. Transporte pago por Feka também afeta o
+  saldo.
+- O calendário ficcional agenda o Pix do pai na manhã seguinte e as cobranças
+  das dívidas. O tempo avança pelas cenas, independentemente da velocidade de
+  leitura ou de quanto tempo o celular fica aberto.
+- O banco do celular mostra saldo, extrato, conta do jantar e valores a
+  devolver. A devolução exige escolha e confirmação; saldo insuficiente
+  impede o envio. O histórico registra pagamentos e atrasos no save.
+- Mensagens aparecem no celular e em avisos discretos. Dispensar um aviso
+  não marca a mensagem como lida nem altera a hora da história.
+- Os antigos epílogos que afirmavam devolução automática foram substituídos
+  por textos condicionais ao estado real da dívida.
+
+### Áudio e distribuição
+
+- As âncoras sonoras da conta e da mensagem sobre a mudança foram alinhadas
+  ao roteiro. Treze cues de ações removidas, incluindo devoluções automáticas,
+  saíram do manifesto; o catálogo mantém 114 assets e agora compila 169
+  eventos para 69 cenas. Não foram gerados novos sons.
+- `game.zip` foi recompilado da fonte 0.11.1 e o catálogo PWA passou de 444
+  para 462 arquivos. O changelog continua disponível fora do pacote do jogo.
+
+### Verificação
+
+- Compilação e lint do Ren'Py passaram. A análise narrativa alcançou 69 nós,
+  47 menus, 144 opções e 12 finais, examinando 562.681 estados equivalentes e
+  1.773.908 transições.
+- Passaram os testes puros do modelo financeiro e do arquivo do celular, as
+  108 combinações de conversa da mesa, oito estados da foto e 96 estados da
+  refeição. A auditoria de áudio decodificou 249 arquivos e conferiu 167
+  âncoras editoriais. A revisão artística por escuta continua pendente.
+
 ## 0.11.0 — 18 de setembro de 2026
 
 ### Chegada ao restaurante
