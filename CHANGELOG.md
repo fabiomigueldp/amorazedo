@@ -12,7 +12,11 @@ entregue pelo GitHub Pages.
   funcionário, reação de Joãozão e relatos separados na delegacia.
 - O ramo acrescenta nove nós e dois finais, elevando a história a 78 nós,
   52 menus, 154 opções e 14 finais.
-- `game.zip` e o catálogo PWA foram recompilados com o novo roteiro e estado.
+- Nove imagens de `arte-v15` agora cobrem recepção, recusa, recuo, queda,
+  polícia, viatura, espera, depoimento e a reação de Vanessa. Assim, todas
+  as referências visuais do novo ramo existem no pacote publicado.
+- `game.zip` e o catálogo PWA foram recompilados com o novo roteiro, estado,
+  imagens e os efeitos sonoros associados à cena.
 
 ## 0.11.1 — 21 de setembro de 2026
 
