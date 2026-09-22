@@ -4,6 +4,14 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Distribuição — 22 de setembro de 2026
+
+- Incluídos 17 ambientes do Mercado Kado, 10 da Farmácia Véspera e 13 da
+  Livraria Dobra, com suas definições registradas no jogo.
+- Atualizados os sons de cassino e as gravações de celular no pacote web e
+  no catálogo de download progressivo.
+- `game.zip` foi recompilado com o material mais recente do projeto.
+
 ## Distribuição — 21 de setembro de 2026
 
 - Pacote web recompilado com a nova unidade visual da clínica Horizonte e
