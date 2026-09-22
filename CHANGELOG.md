@@ -4,6 +4,13 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Distribuição — Pátio Mosaico — 22 de setembro de 2026
+
+- Adicionadas 20 imagens do Pátio Mosaico, um novo centro comercial com
+  áreas de tacos, lámen, pizza, serviços e espaços comuns.
+- `game.zip` e o catálogo PWA agora incluem essas imagens e suas definições
+  de cenário no Ren'Py.
+
 ## Distribuição — 22 de setembro de 2026
 
 - Incluídos 17 ambientes do Mercado Kado, 10 da Farmácia Véspera e 13 da
