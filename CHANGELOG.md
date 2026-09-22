@@ -4,6 +4,12 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Distribuição — 21 de setembro de 2026
+
+- Pacote web recompilado com a nova unidade visual da clínica Horizonte e
+  ambientes adicionais de conveniência, padaria, Francisquinho e Kohaku.
+- O catálogo PWA e `game.zip` foram atualizados para incluir as novas imagens.
+
 ## 0.11.1 — atualização de 21 de setembro de 2026
 
 - Novo ramo na saída do restaurante: Feka pode respeitar a recusa de Yasmin,
