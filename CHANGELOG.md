@@ -4,6 +4,17 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Distribuição — sequência no apartamento e jogos do Mesa — 23 de setembro de 2026
+
+- O pacote do jogo recebeu nove composições `arte-v16`, incluindo as etapas de
+  domingo e a saída de terça-feira do apartamento de Vanessa. A sequência da
+  terça mantém figurino, luz do entardecer e continuidade entre a pia e a porta.
+- Adicionados efeitos de interface e resultado para Sinuca, Batalha Naval e
+  Hold'em no celular; também foram atualizados os efeitos associados à corrida
+  de cavalos. As ações confirmadas e os resultados salvos determinam os cues.
+- `game.zip` foi recompilado e o catálogo PWA atualizado para distribuir os
+  novos quadros e arquivos de áudio.
+
 ## Distribuição — corrida no Mesa — 22 de setembro de 2026
 
 - O cassino do celular agora oferece corrida animada com seis cavalos e duas
