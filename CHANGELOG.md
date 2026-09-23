@@ -4,6 +4,19 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## PWA, instalação e retomada — 23 de setembro de 2026
+
+- A interface web foi adaptada para instalação no iPhone e Android, com área
+  segura, controles por toque, abertura sem zoom ou rolagem indevida e tela de
+  carregamento personalizada.
+- O aviso de instalação oferece a confirmação nativa quando o Android permite;
+  no iOS, mostra passos curtos para adicionar o jogo à Tela de Início.
+- O menu principal agora oferece **Continuar** quando existe um save e carrega
+  o mais recente entre manual, automático e rápido. **Novo jogo** substitui
+  **Início** para distinguir as duas ações.
+- O pacote Ren'Py, o catálogo offline e os ícones PWA foram atualizados. Os
+  testes de retomada, interface móvel e reabertura offline passaram.
+
 ## Distribuição — sequência no apartamento e jogos do Mesa — 23 de setembro de 2026
 
 - O pacote do jogo recebeu nove composições `arte-v16`, incluindo as etapas de
