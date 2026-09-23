@@ -4,6 +4,18 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Distribuição — corrida no Mesa — 22 de setembro de 2026
+
+- O cassino do celular agora oferece corrida animada com seis cavalos e duas
+  modalidades de aposta: vencer ou ficar entre os dois primeiros.
+- As cotações, o débito e o crédito usam o saldo e o extrato da campanha. A
+  apresentação salva a ordem da prova; pausar ou abrir o celular preserva a
+  corrida, e a animação não altera o resultado.
+- Incluídos pista em camadas, cercas, flores, 72 quadros de galope e sons de
+  largada, cascos e chegada. O movimento reduzido oferece resultado estático.
+- `game.zip` e o catálogo PWA foram recompilados com o aplicativo e seus
+  novos recursos visuais e sonoros.
+
 ## Distribuição — Pátio Mosaico — 22 de setembro de 2026
 
 - Adicionadas 20 imagens do Pátio Mosaico, um novo centro comercial com
