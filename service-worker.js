@@ -1,6 +1,6 @@
 const SCOPE = new URL(self.registration.scope);
 const PREFIX = `amor-azedo-2-pwa:${SCOPE.pathname}:`;
-const CACHE = PREFIX + '75f18a440925f496';
+const CACHE = PREFIX + '39fe934b014f57ac';
 const SHELL = ['index.html', 'app.css', 'app.js', 'manifest.json', 'offline-catalog.json',
   'icons/apple-touch-icon.png', 'icons/icon-192x192.png'];
 self.addEventListener('install', event => {

@@ -4,6 +4,14 @@ Este arquivo registra mudanças que chegaram à distribuição web publicada. A
 fonte do jogo fica fora deste checkout; esta branch contém o build estático
 entregue pelo GitHub Pages.
 
+## Expansão sonora e final fatal — 24 de setembro de 2026
+
+- Novos cues de ambiente e ação foram integrados à campanha, com os arquivos de
+  áudio e o manifesto do jogo atualizados.
+- O final de Joãozão recebeu efeitos pontuais de cadeira, aproximação, contato,
+  faca no chão e queda. A cartela final permanece sem música.
+- A distribuição Ren'Py e o catálogo offline do PWA foram reconstruídos.
+
 ## PWA, instalação e retomada — 23 de setembro de 2026
 
 - A interface web foi adaptada para instalação no iPhone e Android, com área
